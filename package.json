@@ -1,0 +1,28 @@
+{
+  "name": "fundamentos-1",
+  "version": "1.0.0",
+  "description": "Curso fundamentos - modulo 1",
+  "main": "app.js",
+  "dependencies": {
+    "estadisticas": "^1.0.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SINENSIA/node-fundamentos-1.git"
+  },
+  "keywords": [
+    "curso",
+    "nodejs"
+  ],
+  "author": "SINENSIA IT SOLUTIONS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SINENSIA/node-fundamentos-1/issues"
+  },
+  "homepage": "https://github.com/SINENSIA/node-fundamentos-1#readme"
+}
