@@ -4,7 +4,8 @@ let os = require('os');
 console.log(module.paths);
 
 let webserver = http.createServer(function(request, response) {
-    
+    console.log(request);
+
     response.writeHead(200, {'Content-Type' : 'text/plain'});
     response.write(os.platform() + " " + os.release() + "\n");
 
